@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!+%JaeHwan's+%GitHub&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=JaeHwan's+%GitHub&fontSize=55)
 
 # 👋 Hi, I'm JaeHwan (정재환)
 
