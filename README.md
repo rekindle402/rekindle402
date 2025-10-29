@@ -63,7 +63,7 @@
 
 ## 🔗 Links
 
--   **Portfolio:** [https://(노션-포트폴리오-주소)](https://(노션-포트폴리오-주소))
+-   **Portfolio:** [https://(노션-포트폴리오-주소)]([https://(노션-포트폴리오-주소)](https://www.notion.so/2924349fa07b810ab65ee41cb8d2d723))
 -   **Email:** rekindle402@gmail.com
 
 ## 📊 GitHub Stats
