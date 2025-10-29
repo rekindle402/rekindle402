@@ -59,11 +59,11 @@
 >     -   Nginx 리버스 프록시 구성 (WebSocket 라우팅 포함)
 >     -   k6를 이용한 실사용자 시나리오 기반 부하 테스트
 >
-> **👉 [자세한 내용은 포트폴리오에서 확인해주세요! (Notion 링크)]([여기에-노션-포트폴리오-링크-삽입](https://www.notion.so/2924349fa07b810ab65ee41cb8d2d723))**
+> **👉 자세한 내용은 아래의 포트폴리오에서 확인해주세요!
 
 ## 🔗 Links
 
--   **Portfolio:** [https://(노션-포트폴리오-주소)]([https://(노션-포트폴리오-주소)](https://www.notion.so/2924349fa07b810ab65ee41cb8d2d723))
+-  [![Notion Portfolio](https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2924349fa07b810ab65ee41cb8d2d723?source=copy_link)
 -   **Email:** rekindle402@gmail.com
 
 ## 📊 GitHub Stats
