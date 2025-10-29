@@ -15,7 +15,7 @@ Backend
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JPA-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/QueryDSL-007396%3Fstyle%3Dfor-the-badge%26logo%3Ddata:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIj48ZyBmaWxsPSIjNjRCNUE2Ij48cGF0aCBkPSJNMjkuMzUgNS43N0wyMy42IDEuMDJDOC41MTMuNDg6IDEuOTY3IDcuNTggMS45NjcgMTYuMDAzYzAgOC44MjcgNi41NDYgMTUuNDg3IDIxLjYzMyAxNC45NTNsNS43NS00Ljc1N0MyMS42MiAyNS40OCAxNS41MzMgMTkuOTEgMTUuNTMzIDEyLjkzMUMxNS41MzMgNi43MiAyMS44NDUgMS44MSAyOS4zNSA1Ljc3NSIvPjxwYXRoIGQ9Ik0zMC4wMzMgMTYuMDAzYzAgOC44MjctNi41NDYgMTUuNDg3LTIxLjYzMyAxNC45NTNsNS43NS00Ljc1N0MyMS42MiAyNS40OCAxNS41MzMgMTkuOTEgMTUuNTMzIDEyLjkzMWMwLTYuMjggNi4zMTItMTEuMTI3IDEzLjgxNy03LjE1NkwzMC4wMzMgMTZ6Ii8%2BPC9nPjwvc3ZnPg%3D%3D">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/QueryDSL-007396%3Fstyle%3Dfor-the-badge%26logo%3Ddata:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIj48ZyBmaWxsPSIjNjRCNUE2Ij48cGF0aCBkPSJNMjkuMzUgNS43N0wyMy42IDEuMDJDOC41MTMuNDg6IDEuOTY3IDcuNTggMS45NjcgMTYuMDAzYzAgOC44MjcgNi41NDYgMTUuNDg3IDIxLjYzMyAxNC45NTNsNS43NS00Ljc1N0MyMS42MiAyNS40OCAxNS41MzMgMTkuOTEgMTUuNTMzIDEyLjkzMUMxNS41MzMgNi43MiAyMS44NDUgMS44MSAyOS4zNSA1Ljc3NSIvPjxwYXRoIGQ9Ik0zMC4wMzMgMTYuMDAzYzAgOC44MjctNi41NDYgMTUuNDg3LTIxLjYzMyAxNC45NTNsNS43NS00Ljc1N0MyMS42MiAyNS40OCAxNS41MzMgMTkuOTEgMTUuNTMzIDEyLjkzMWMwLTYuMjggNi43MTItMTEuMTI3IDE0LjIxNy03LjE1NkwzMC4wMzMgMTZ6Ii8%2BPC9nPjwvc3ZnPg%3D%3D">
 </p>
 
 Database & Cache
@@ -40,7 +40,6 @@ DevOps & Tools
 저는 다음과 같은 경험을 통해 팀의 생산성과 서비스의 안정성을 높이는 데 기여했습니다.
 
 코드 품질 개선: PR 리뷰를 통해 @Setter 어노테이션 대신 Builder 패턴과 DDD 기반의 도메인 메서드를 사용하도록 제안하여 객체의 안정성과 코드 품질을 높였습니다.
-
 
 협업 및 표준화: SpringDoc API 문서화, 공통 에러 응답 설계, Flyway DB 마이그레이션 등을 주도하여 팀의 협업 표준을 마련했습니다.
 
